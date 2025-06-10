@@ -1,12 +1,10 @@
 ## Bem-vindo(a) ao meu perfil  😁
 
  <div>
+   <img alt="Night Coding" src="https://i.pinimg.com/originals/e6/10/9e/e6109e32a9ac1a8f2496d7fba78e9c84.gif" width="300px" height="250px" style="border-radius:20px" align="right"/>
+  
    <a href="https://github.com/KauanLucasFL">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanLucasFL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-   <a href="https://github.com/KauanLucasFL">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerioHenriqueRM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanLucasFL&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
