@@ -1,31 +1,49 @@
-## Bem-vindo(a) ao meu perfil  😁
+## Olá, eu sou Kauan Lucas (luka) 👋
 
- <div>
-   <img alt="Night Coding" src="https://i.pinimg.com/originals/e6/10/9e/e6109e32a9ac1a8f2496d7fba78e9c84.gif" width="300px" height="250px" style="border-radius:20px" align="right"/>
-  
-   <a href="https://github.com/KauanLucasFL">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanLucasFL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanLucasFL&layout=compact&langs_count=6&theme=tokyonight"/>
+**Engenheiro de Software em formação | Desenvolvedor Mobile & Web | Instrutor de Tecnologia**
+
+Sou estudante de Engenharia de Software e atuo como instrutor de programação, robótica e IA. 
+
+<div align="center">
+  <a href="https://github.com/KauanLucasFL">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanLucasFL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanLucasFL&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
 </div>
-    
-<hr>
-<h2>Tecnologias👾 </h2>
-<div style="display: inline_block"><br>
-  <img align="center" alt="kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="GIT" height="30" width="40" src="https://img.icons8.com/color/48/git.png" >
+
+---
+
+### 💻 Sobre Mim
+- 🎓 Estudante de Engenharia de Software.
+- 💼 Trabalho ensinando programação, robótica e Inteligência Artificial.
+- 🔬 Possuo background técnico em biotecnologia.
+- 🎲 Nas horas vagas: Desenvolvo worldbuilding para RPGs de mesa e jogo Magic: The Gathering.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+<div style="display: inline-block;">
+  <img alt="Kotlin" height="40" width="40" style="margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img alt="Android" height="40" width="40" style="margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+  <img alt="IntelliJ" height="40" width="40" style="margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+  <img alt="Js" height="40" width="40" style="margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img alt="TS" height="40" width="40" style="margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="Node.js" height="40" width="40" style="margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img alt="React" height="40" width="40" style="margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="Python" height="40" width="40" style="margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img alt="C++" height="40" width="40" style="margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img alt="HTML" height="40" width="40" style="margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" width="40" style="margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img alt="GIT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
- 
+
 <br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
+
+### 🌐 Acompanhe meu conteúdo e faça contato
 <div> 
-  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "https://mail.google.com/mail/u/0/?tab=kauan.lucxs.fl#sent?compose=DmwnWtDwjRltlWXgWCwTJjGZphZgMkdvRsghczbmkSsfkqLtxXdrwbQQFDfSWgVCJjSNGZjZsVpL"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kauan-lucas-fernandes-de-lima-a37a12202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kauan-lucas-fernandes-de-lima-a37a12202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
