@@ -1,6 +1,6 @@
 ## Olá, eu sou Kauan Lucas (luka) 👋
 
-**Engenheiro de Software em formação | Desenvolvedor Mobile & Web | Instrutor de Tecnologia**
+**Engenheiro de Software | Desenvolvedor Mobile & Web | Instrutor de Tecnologia**
 
 Sou estudante de Engenharia de Software e atuo como instrutor de programação, robótica e IA. 
 
