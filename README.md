@@ -1,4 +1,4 @@
-## Olá, eu sou Kauan Lucas (luka) 👋
+## Olá, eu sou Kauan Lucas  👋
 
 **Engenheiro de Software | Desenvolvedor Mobile & Web | Instrutor de Tecnologia**
 
@@ -7,10 +7,11 @@ Sou estudante de Engenharia de Software e atuo como instrutor de programação, 
 ---
 
 ### 💻 Sobre Mim
-- 🎓 Estudante de Engenharia de Software.
-- 💼 Trabalho ensinando programação, robótica e Inteligência Artificial.
-- 🔬 Possuo background técnico em biotecnologia.
-- 🎲 Nas horas vagas: Desenvolvo worldbuilding para RPGs de mesa e jogo Magic: The Gathering.
+-  Estudante de Engenharia de Software.
+-  Trabalho ensinando programação, robótica e Inteligência Artificial.
+-  Possuo background técnico em biotecnologia.
+-  Nas horas vagas: Desenvolvo worldbuilding para RPGs de mesa e jogo Magic: The Gathering.
+- Atualmente meus projetos estão privados, caso tenha interesse em ver ou conversar comigo, considere me enviar um Email ou mensagem pelo LinkedIn
 
 ---
 
