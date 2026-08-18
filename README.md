@@ -7,7 +7,7 @@ Sou estudante de Engenharia de Software e atuo como instrutor de programação, 
 ---
 
 ### 💻 Sobre Mim
--  Estudante de Engenharia de Software.
+-  Estudante de Engenharia de Software. --> DevSecMlOps é a meta
 -  Trabalho ensinando programação, robótica e Inteligência Artificial.
 -  Possuo background técnico em biotecnologia.
 -  Nas horas vagas: Desenvolvo worldbuilding para RPGs de mesa e jogo Magic: The Gathering.
