@@ -1,21 +1,21 @@
-## Olá, eu sou Kauan Lucas  👋
+## Hello, I'm Kauan Lucas 👋
 
-**Engenheiro de Software | Desenvolvedor Mobile & Web | Instrutor de Tecnologia**
+**Software Engineer | Mobile & Web Developer | Technology Instructor**
 
-Sou estudante de Engenharia de Software e atuo como instrutor de programação, robótica e IA. 
-
----
-
-### 💻 Sobre Mim
--  Estudante de Engenharia de Software. --> DevSecMlOps é a meta
--  Trabalho ensinando programação, robótica e Inteligência Artificial.
--  Possuo background técnico em biotecnologia.
--  Nas horas vagas: Desenvolvo worldbuilding para RPGs de mesa e jogo Magic: The Gathering.
-- Atualmente meus projetos estão privados, caso tenha interesse em ver ou conversar comigo, considere me enviar um Email ou mensagem pelo LinkedIn
+I am a Software Engineering student and work as an instructor in programming, robotics, and AI.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 💻 About Me
+- Software Engineering student. --> DevSecMLOps is the goal.
+- I teach programming, robotics, and Artificial Intelligence.
+- I have a technical background in biotechnology.
+- In my free time, I develop worldbuilding for tabletop RPGs and play Magic: The Gathering.
+- My projects are currently private. If you're interested in seeing them or getting in touch, feel free to send me an email or message me on LinkedIn.
+
+---
+
+### 🛠️ Technologies & Tools
 <div style="display: inline-block;">
   <img alt="Kotlin" height="40" width="40" style="margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img alt="Android" height="40" width="40" style="margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
@@ -33,7 +33,7 @@ Sou estudante de Engenharia de Software e atuo como instrutor de programação, 
 
 <br>
 
-### 🌐 Acompanhe meu conteúdo e faça contato
+### 🌐 Follow My Content & Get in Touch
 <div> 
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
