@@ -92,6 +92,7 @@ I'm a Software Engineering student and a programming, robotics, and AI instructo
   <a href="https://www.linkedin.com/in/kauan-lucas-fernandes-de-lima-a37a12202/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <img src="https://komarev.com/ghpvc/?username=KauanLucasFL&label=Visitantes&color=8B0000&style=for-the-badge"/>
 </div>
 
 ---
